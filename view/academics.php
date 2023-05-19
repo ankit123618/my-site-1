@@ -12,26 +12,26 @@
 			<div class="home"><a href="../index.php">Home</a></div>
 		<div class="header">
 			<h1 class="title">Bachelor in Engineering</h1>
-			<h2>Rajiv Gandhi Technical University</h2>
-			<h3>Information & Technology</h3>
-			<h4>2019 - 2022</h4>
+			<p>Rajiv Gandhi Technical University</p>
+			<p>Information & Technology</p>
+			<p>2019 - 2022</p>
 		</div>
 		<div class="header">
 			<h1 class="title">Diploma in Engineering</h1>
-			<h2>Rajiv Gandhi Technical University</h2>
-			<h3>Information & Technology</h3>
-			<h4>2016 - 2019</h4>
+			<p>Rajiv Gandhi Technical University</p>
+			<p>Information & Technology</p>
+			<p>2016 - 2019</p>
 		</div>
 		<div class="header">
 			<h1 class="title">Higher Secondory</h1>
-			<h2>Madhya Pradesh Board Of Secondory Education</h2>
-			<h3>Science</h3>
-			<h4>2013 - 2015</h4>
+			<p>Madhya Pradesh Board Of Secondory Education</p>
+			<p>Science</p>
+			<p>2013 - 2015</p>
 		</div>
 		<div class="header">
 			<h1 class="title">High School</h1>
-			<h2>Madhya Pradesh Board Of Secondory Education</h2>
-			<h4>2013</h4>
+			<p>Madhya Pradesh Board Of Secondory Education</p>
+			<p>2013</p>
 		</div>
 	</div>
 </body>
