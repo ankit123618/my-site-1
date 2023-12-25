@@ -1,1 +1,0 @@
-<!-- feching data through ajax -->
